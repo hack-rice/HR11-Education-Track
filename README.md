@@ -1,4 +1,4 @@
-# Hack Rice 11 Education Track
+# HackRice 11 Education Track
 
 ## Track Description
 Over the past months, the coronavirus pandemic has exposed both the shortcomings and strengths of virtual educational tools. Recently, the challenges posed by online education have been at the forefront of technological innovation, and as classrooms return to an in-person format, new digital tools that boost productivity in the classroom and support students will continue to have an impact. This track is an opportunity to develop new digital tools for education and learning in a post COVID-19 world.
